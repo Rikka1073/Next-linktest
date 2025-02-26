@@ -1,5 +1,5 @@
 const page = () => {
-  return <div>aboutページです</div>;
+  return <div data-testid="abouttitle">aboutページです</div>;
 };
 
 export default page;
